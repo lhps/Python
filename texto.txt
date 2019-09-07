@@ -1,0 +1,1 @@
+Este é um arquivo de texto básico para testar Arquivos em Python.
